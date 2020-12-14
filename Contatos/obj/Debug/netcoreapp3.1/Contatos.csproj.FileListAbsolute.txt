@@ -1,0 +1,13 @@
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.exe
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.deps.json
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.runtimeconfig.json
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.dll
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.pdb
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.AssemblyInfo.cs
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.dll
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.pdb
+C:\Users\Philc\Desktop\Ed\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.genruntimeconfig.cache
